@@ -3,7 +3,7 @@
 
 title: Panini Press
 url: "https://johnbradley436.github.io/Panini-Press/"
-baseurl:
+baseurl: "https://johnbradley436.github.io/Panini-Press/"
 google_analytics_key:
 disqus_shortname:
 newsletter_action:
@@ -12,8 +12,8 @@ newsletter_action:
 logo: /siteicon.png
 description: Knowledge base template for Jekyll.
 author:
-  name:
-  email:
+  name: John
+  email: johnbradley436@gmail.com
   twitter: # twitter username without the @ symbol
 social:
   name: Base Template
