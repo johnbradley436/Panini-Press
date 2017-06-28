@@ -1,6 +1,6 @@
 # The Panini Press
 
-Knowledge base template for Jekyll. Browse through a [live demo](https://orange-ape.cloudvent.net/).
+Grammar is fun. All else comes back to zero. Check out the original template [here.](https://orange-ape.cloudvent.net/).
 
 ![Base template screenshot](images/_screenshot.png)
 
